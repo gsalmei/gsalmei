@@ -1,6 +1,6 @@
-### Olá, seja bem vindo ao meu Github 👋. 
+### Hello, welcome to my GitHub!👋. 
 
-Me chamo Gustavo Almeida, sou analista de dados e aqui documento minha jornada de estudos na área.
+My name is Gustavo Almeida, I am a data analyst, and here I document my journey in the field of data studies.
 
 
 
